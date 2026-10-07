@@ -14,14 +14,14 @@ public:
              if(maxLeft <=height[L]){
             maxLeft=height[L];
             }else{
-                water += min(maxLeft,maxRight)- height[L];
+                water += maxLeft- height[L];
             }
         }else{
             R--;
              if(maxRight <=height[R]){
             maxRight=height[R];
             }else{
-                water += min(maxLeft,maxRight)- height[R];
+                water += maxRight- height[R];
             }
         }
       }
