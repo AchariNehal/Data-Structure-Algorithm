@@ -50,4 +50,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/AchariNehal/Data-Structure-Algorithm/tree/master/0042-trapping-rain-water) |
+## Math
+|  |
+| ------- |
+| [0009-palindrome-number](https://github.com/AchariNehal/Data-Structure-Algorithm/tree/master/0009-palindrome-number) |
 <!---LeetCode Topics End-->
